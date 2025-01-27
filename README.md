@@ -1,6 +1,3 @@
-<img src=""C:\Users\MUSKAN KUMARI\Downloads\Pink Floral Wedding Agent Business Card.png"" alt="Alt Text" width="300" height="200">
-
-
 # 👋 Hi, I'm Muskan!
 
 > **"Code with creativity, debug with determination, and learn with curiosity."**
