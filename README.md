@@ -1,4 +1,4 @@
-# # 👋 Hi, I'm Muskan!
+# 👋 Hi, I'm Muskan!
 
 > **"Code with creativity, debug with determination, and learn with curiosity."**
 
