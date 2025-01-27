@@ -1,4 +1,3 @@
-# ![image]("C:\Users\MUSKAN KUMARI\Downloads\Pink Floral Wedding Agent Business Card.png")
 
 # 👋 Hi, I'm Muskan!
 
