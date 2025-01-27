@@ -1,4 +1,4 @@
-<img src="path/to/image" alt="Alt Text" width="300" height="200">
+<img src=""C:\Users\MUSKAN KUMARI\Downloads\Pink Floral Wedding Agent Business Card.png"" alt="Alt Text" width="300" height="200">
 
 
 # 👋 Hi, I'm Muskan!
