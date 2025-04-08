@@ -32,7 +32,7 @@
 
 ### 📫 Let's Connect:
 - **Email:** mkum0795@gmail.com 
-- **GitHub:** [Muskan's Profile](https://github.com/Musu581/MUSKAN-KUMARI)  
+- **GitHub:** [Muskan's Profile](https://github.com/Musu581/Musu581.git)  
 - **LinkedIn:** [Muskan's Profile](https://www.linkedin.com/in/muskan-kumari-60665a2a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
   
 
