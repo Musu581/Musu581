@@ -19,7 +19,7 @@
 - **Programming Languages:** C++, Python, Java  
 - **Web Development:** HTML, CSS, JavaScript  
 - **Databases:** SQL, MySQL  
-- **Data Visualization Tools:** Powerbi 
+- **Data Visualization Tools:** Powerbi , Tableau
 
 ---
 
